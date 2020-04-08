@@ -1,0 +1,13 @@
+{
+  "name": "test-lz-string",
+  "version": "0.0.1",
+  "description": "Test lz-string",
+  "main": "app.js",
+  "private": true,
+  "scripts": {},
+  "author": "ippei0605@gmail.com",
+  "dependencies": {
+    "lz-string": "^1.4.4"
+  },
+  "devDependencies": {}
+}
